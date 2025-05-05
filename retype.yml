@@ -1,0 +1,29 @@
+input: .
+output: ./site
+url: https://justduffo.github.io/BFLite-docs/
+entry: index.md
+
+branding:
+  title: BFLite Framework
+  label: Docs
+  logo: static/Logo_Breakboundsmallpng.png
+
+favicon: static/Logo_Breakboundsmallpng.png
+
+navigation:
+  - title: Welcome
+    file: index.md
+  - title: Setup
+    file: setup.md
+  - title: Interaction System
+    file: interaction.md
+  - title: Inspection System
+    file: inspection.md
+  - title: Physical Sounds
+    file: physical-sounds.md
+  - title: Doors & Lights
+    file: doors-and-lights.md
+  - title: Event Maker
+    file: event-maker.md
+  - title: FAQ
+    file: faq.md
