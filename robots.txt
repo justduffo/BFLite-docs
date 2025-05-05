@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://justduffo.github.io/BFLite-docs/sitemap.xml.gz
