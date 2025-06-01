@@ -1,0 +1,141 @@
+{
+  "version": "3.7.0",
+  "created": "2025-06-01T11:24:12Z",
+  "files": [
+    {
+      "path": ".nojekyll"
+    },
+    {
+      "path": "404.html"
+    },
+    {
+      "path": "changelogs\\index.html"
+    },
+    {
+      "path": "doors-and-lights\\index.html"
+    },
+    {
+      "path": "event-maker\\index.html"
+    },
+    {
+      "path": "faq\\index.html"
+    },
+    {
+      "path": "index.html"
+    },
+    {
+      "path": "inspection\\index.html"
+    },
+    {
+      "path": "interaction\\index.html"
+    },
+    {
+      "path": "menu\\index.html"
+    },
+    {
+      "path": "resources\\css\\retype.css"
+    },
+    {
+      "path": "resources\\fonts\\Inter-italic-latin-var.woff2"
+    },
+    {
+      "path": "resources\\fonts\\Inter-roman-latin-var.woff2"
+    },
+    {
+      "path": "resources\\js\\config.js"
+    },
+    {
+      "path": "resources\\js\\lunr.js"
+    },
+    {
+      "path": "resources\\js\\retype.js"
+    },
+    {
+      "path": "resources\\js\\search.json"
+    },
+    {
+      "path": "resources\\lunr.js.LICENSE.txt"
+    },
+    {
+      "path": "resources\\mermaid.js.LICENSE.txt"
+    },
+    {
+      "path": "resources\\prism.js.LICENSE.txt"
+    },
+    {
+      "path": "resources\\retype.js.LICENSE.txt"
+    },
+    {
+      "path": "resources\\retype.LICENSE.txt"
+    },
+    {
+      "path": "robots.txt"
+    },
+    {
+      "path": "setup\\index.html"
+    },
+    {
+      "path": "shysical-sounds\\index.html"
+    },
+    {
+      "path": "sitemap.xml.gz"
+    },
+    {
+      "path": "static\\addinterface.png"
+    },
+    {
+      "path": "static\\collsiondetailpanel.png"
+    },
+    {
+      "path": "static\\doordetails.png"
+    },
+    {
+      "path": "static\\eventdoor.png"
+    },
+    {
+      "path": "static\\eventlight.png"
+    },
+    {
+      "path": "static\\eventtransform.png"
+    },
+    {
+      "path": "static\\favicon.ico"
+    },
+    {
+      "path": "static\\inspectiondetails.png"
+    },
+    {
+      "path": "static\\intmasterlocation.png"
+    },
+    {
+      "path": "static\\levelconfig.png"
+    },
+    {
+      "path": "static\\lightdetail.png"
+    },
+    {
+      "path": "static\\lightswitchdetail.png"
+    },
+    {
+      "path": "static\\logo_breakboundsmallpng.png"
+    },
+    {
+      "path": "static\\logo.svg"
+    },
+    {
+      "path": "static\\masterchilditem.png"
+    },
+    {
+      "path": "static\\physicssound.png"
+    },
+    {
+      "path": "static\\physicssurface.png"
+    },
+    {
+      "path": "static\\playercontrollerconfig.png"
+    },
+    {
+      "path": "static\\setupcollision.png"
+    }
+  ]
+}
